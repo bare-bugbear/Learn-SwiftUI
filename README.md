@@ -6,3 +6,5 @@ Articles about learning SwiftUI.
 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 
 [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
+
+[Making real-world app with SwiftUI](https://swiftwithmajid.com/2019/06/05/swiftui-making-real-world-app/)
